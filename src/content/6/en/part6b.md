@@ -1183,6 +1183,7 @@ const App = () => {
     <div>
       <h1>Programming anecdotes</h1>
       <Notification />
+      <Filter />
       <AnecdoteForm />
       <AnecdoteList />
     </div>
